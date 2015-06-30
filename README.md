@@ -10,6 +10,7 @@ This list lives from contributions of the community. If you want to add your ide
 
 ## Missing
 * Music App
+* Media Player
 
 ## In progress (author/repository)
 * Browser App
