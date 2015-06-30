@@ -17,3 +17,4 @@ This list lives from contributions of the community. If you want to add your ide
 
 ## Existing (author/repository)
 * Calculator App (https://github.com/papyros/calculator-app)
+* Files App (https://github.com/papyros/files-app)
