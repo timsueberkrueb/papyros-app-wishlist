@@ -10,10 +10,12 @@ This list lives from contributions of the community. If you want to add your ide
 
 ## Missing/Ideas
 * Music App
+  * Soundcloud integration
 * Media Player (Videos)
 * Photos App (Galery)
 * Text editor
 * Cloud Sync
+  * Google Drive 
 * Account Integration
 * Designer for qml-material 
   * Drag and Drop -> easiliy create MD UIs
