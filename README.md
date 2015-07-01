@@ -8,9 +8,16 @@ This list lives from contributions of the community. If you want to add your ide
 
 # Wishlist
 
-## Missing
+## Missing/Ideas
 * Music App
-* Media Player
+* Media Player (Videos)
+* Photos App (Galery)
+* Text editor
+* Cloud Sync
+* Account Integration
+* Designer for qml-material 
+  * Drag and Drop -> easiliy create MD UIs
+  * Generate QML code
 
 ## In progress (author/repository)
 * Browser App
