@@ -20,6 +20,7 @@ This list lives from contributions of the community. If you want to add your ide
 * Designer for qml-material 
   * Drag and Drop -> easiliy create MD UIs
   * Generate QML code
+* Google Hangouts App (using e.g. https://github.com/algesten/hangupsjs)
 
 ## In progress (author/repository)
 * Browser App
