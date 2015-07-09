@@ -21,6 +21,7 @@ This list lives from contributions of the community. If you want to add your ide
   * Drag and Drop -> easiliy create MD UIs
   * Generate QML code
 * Google Hangouts App (using e.g. https://github.com/algesten/hangupsjs)
+* Papyros Communtiy Forum (website and app)
 
 ## In progress (author/repository)
 * Browser App
