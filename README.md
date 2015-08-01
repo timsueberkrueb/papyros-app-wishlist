@@ -22,6 +22,8 @@ This list lives from contributions of the community. If you want to add your ide
   * Generate QML code
 * Google Hangouts App (using e.g. https://github.com/algesten/hangupsjs)
 * Papyros Communtiy Forum (website and app)
+* Microphone and screen recorder
+* Simple and effective paint application
 
 ## In progress (author/repository)
 * Browser App
