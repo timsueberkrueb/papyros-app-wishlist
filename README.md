@@ -24,6 +24,26 @@ This list lives from contributions of the community. If you want to add your ide
 * Papyros Communtiy Forum (website and app)
 * Microphone and screen recorder
 * Simple and effective paint application
+* Mail Application
+* Disk Utility Application
+* Dictionary
+* PDF/Book Viewer Application
+* Notes Application
+* Calendar Application
+* Maps Application
+ * OpenStreetMap
+ * Google Maps Web App
+* Webcam Application
+* Activity Monitor
+* Contacts
+* Photo Editor 
+ * Simple Effects
+ * like Snapseed
+* Audio Editor 
+ * Simple Effects
+ * like Audacity
+* Movie Editor 
+ * Simple Effects, Transitions etc.
 
 ## In progress (author/repository)
 * Browser App
