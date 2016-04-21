@@ -9,11 +9,7 @@ This list lives from contributions of the community. If you want to add your ide
 # Wishlist
 
 ## Missing/Ideas
-* Music App
-  * Soundcloud integration
-* Media Player (Videos)
 * Photos App (Galery)
-* Text editor
 * Cloud Sync
   * Google Drive 
 * Account Integration
@@ -46,10 +42,11 @@ This list lives from contributions of the community. If you want to add your ide
  * Simple Effects, Transitions etc.
 
 ## In progress (author/repository)
-* Browser App
-  * material-browser (https://github.com/tim-sueberkrueb/material-browser)
+* Liri Player (https://github.com/liri-project/liri-browser)
 
 ## Existing (author/repository)
+* Liri Text (https://github.com/liri-project/liri-text)
+* Liri Music (https://github.com/liri-project/liri-music)
 * Calculator App (https://github.com/papyros/calculator-app)
 * Files App (https://github.com/papyros/files-app)
 * Settings App (https://github.com/papyros/settings-app)
