@@ -42,9 +42,10 @@ This list lives from contributions of the community. If you want to add your ide
  * Simple Effects, Transitions etc.
 
 ## In progress (author/repository)
-* Liri Player (https://github.com/liri-project/liri-browser)
+* Liri Player (https://github.com/liri-project/liri-player)
 
 ## Existing (author/repository)
+* Liri Browser (https://github.com/liri-project/liri-browser)
 * Liri Text (https://github.com/liri-project/liri-text)
 * Liri Music (https://github.com/liri-project/liri-music)
 * Calculator App (https://github.com/papyros/calculator-app)
